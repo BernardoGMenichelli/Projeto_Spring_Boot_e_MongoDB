@@ -1,4 +1,4 @@
-package com.nelioalves.workshopmongo.config;
+package com.BernardoGMenichelli.workshopmongo.config;
 
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
