@@ -1,4 +1,4 @@
-package com.nelioalves.workshopmongo.domain;
+package com.BernardoGMenichelli.workshopmongo.domain;
 
 import java.io.Serializable;
 import java.util.ArrayList;
