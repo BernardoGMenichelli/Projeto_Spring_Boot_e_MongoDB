@@ -8,12 +8,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 
-import com.nelioalves.workshopmongo.domain.Post;
-import com.nelioalves.workshopmongo.domain.User;
-import com.nelioalves.workshopmongo.dto.AuthorDTO;
-import com.nelioalves.workshopmongo.dto.CommentDTO;
-import com.nelioalves.workshopmongo.repository.PostRepository;
-import com.nelioalves.workshopmongo.repository.UserRepository;
+import com.BernardoGMenichelli.workshopmongo.domain.Post;
+import com.BernardoGMenichelli.workshopmongo.domain.User;
+import com.BernardoGMenichelli.workshopmongo.dto.AuthorDTO;
+import com.BernardoGMenichelli.workshopmongo.dto.CommentDTO;
+import com.BernardoGMenichelli.workshopmongo.repository.PostRepository;
+import com.BernardoGMenichelli.workshopmongo.repository.UserRepository;
 
 @Configuration
 public class Instantiation implements CommandLineRunner {
